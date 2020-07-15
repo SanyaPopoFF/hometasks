@@ -5,7 +5,7 @@ public class Main {
         Car BMW = new Car(123,"BMW", "3", 2000, "black", 5000, "WBAA60501020" );
         Car AUDI = new Car(124,"AUDI", "A4", 2001, "Dark-blue", 4000, "WBAA60503030" );
         System.out.println(BMW);
-        System.out.println(AUDI);
+        
 
     }
     static class Car {
